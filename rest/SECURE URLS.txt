@@ -1,0 +1,18 @@
+secure uri's 
+
+UserController
+	/users/user
+	/users/all
+	
+ShopController
+	/shops/register
+	/shops/all
+	
+PostController
+	/posts/upload
+	/posts/notification
+	/posts/all
+	
+	
+
+	"/users/user", "/users/all", "/shops/register", "/shops/all", "/posts/upload", "/posts/notification", "/posts/all"
